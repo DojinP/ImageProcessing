@@ -1,5 +1,8 @@
 import cv2
 
+from canny import cannyEdge
+from gray import grayScale
+
 #함수 선언부
 
 
